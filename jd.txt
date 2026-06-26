@@ -1,0 +1,83 @@
+Job Title: Python AI Developer
+
+Company: ABC Technologies
+
+Required Skills:
+Python
+Machine Learning
+SQL
+Pandas
+NumPy
+Scikit-learn
+Data Analysis
+Communication Skills
+Problem Solving
+
+Experience:
+0-2 Years
+
+Education:
+B.Tech in Computer Science / AI & ML / IT
+
+Responsibilities:
+- Build Machine Learning models
+- Data preprocessing
+- Work with datasets
+- Develop AI applications
+- Collaborate with team members
+2.Job Title: AI/ML Engineer
+
+Company: TechNova Solutions Pvt. Ltd.
+
+Location: Hyderabad, India
+
+Job Type: Full-Time
+
+Job Description:
+
+We are looking for a passionate AI/ML Engineer to join our development team. The ideal candidate should have knowledge of Python, Machine Learning, Data Analysis, and Artificial Intelligence concepts. The candidate will work on developing intelligent applications, data preprocessing, model building, and performance evaluation.
+
+Required Skills:
+- Python
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Pandas
+- NumPy
+- Scikit-learn
+- SQL
+- Git
+- Problem Solving
+- Communication Skills
+
+Preferred Skills:
+- TensorFlow
+- OpenCV
+- NLP
+- Data Visualization
+- Power BI
+
+Education:
+- B.Tech/B.E. in Computer Science, Artificial Intelligence, Information Technology, or related field.
+
+Experience:
+- 0–2 Years
+
+Roles and Responsibilities:
+- Develop AI and Machine Learning models.
+- Perform data preprocessing and feature engineering.
+- Train and evaluate machine learning algorithms.
+- Work with structured and unstructured datasets.
+- Collaborate with the development team.
+- Optimize model performance.
+- Prepare technical documentation.
+- Participate in code reviews and testing.
+
+Salary:
+₹4 LPA – ₹7 LPA
+
+Benefits:
+- Health Insurance
+- Flexible Working Hours
+- Learning and Certification Support
+- Career Growth Opportunities
