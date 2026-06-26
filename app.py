@@ -12,7 +12,7 @@ st.write("### Candidate Ranking System using NLP")
 if st.button("Show Results"):
 
     # Read CSV
-    result = pd.read_csv("output/candidate_ranking.csv")
+    result = pd.read_csv("candidate_ranking.csv")
 
     # Show Table
     st.subheader("📋 Candidate Ranking")
